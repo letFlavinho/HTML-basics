@@ -24,7 +24,7 @@ The table tool is used to demark an table in your website.
             <td>...</td>
           </tr>
       </tbody>
-    <!--
+    
     
     <table width="400" border="1"> <!-- visual properties  -->
       <thead>
@@ -48,4 +48,4 @@ The table tool is used to demark an table in your website.
           </tr>
       </tbody>
 
--->
+
